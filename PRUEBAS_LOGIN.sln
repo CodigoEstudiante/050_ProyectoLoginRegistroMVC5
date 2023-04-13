@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRUEBAS_LOGIN", "PRUEBAS_LOGIN\PRUEBAS_LOGIN.csproj", "{4BDE21E0-05BF-4E36-8755-D8F9A4F895DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDE21E0-05BF-4E36-8755-D8F9A4F895DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDE21E0-05BF-4E36-8755-D8F9A4F895DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDE21E0-05BF-4E36-8755-D8F9A4F895DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDE21E0-05BF-4E36-8755-D8F9A4F895DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D5127DD-C077-4129-9AED-4B7E4005C8A0}
+	EndGlobalSection
+EndGlobal
